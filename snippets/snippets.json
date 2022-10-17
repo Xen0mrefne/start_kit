@@ -1,6 +1,6 @@
 {
-    "HTML": [
-        {
+    "HTML": {
+        "Navbar w/ burguer": {
             "prefix": "!navbar",
             "body": [
                 "<nav class=\"navbar\">",
@@ -22,5 +22,5 @@
                 "</nav>"
             ]
         }
-    ]
+    }
 }
