@@ -1,0 +1,14 @@
+git init
+git add .
+git commit -m ''
+git remote add origin repo_url
+git remote set-url origin repo_url
+git pull origin branch_name
+git push -u origin branch_name
+
+Branches
+
+git branch (show branches)
+git branch -m 'branch-name' (change branch name)
+git checkout -b 'new-branch' (creates new branch)
+git checkout 'target-branch' (switches to target branch)

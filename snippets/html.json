@@ -1,0 +1,26 @@
+{
+    "HTML": [
+        {
+            "prefix": "!navbar",
+            "body": [
+                "<nav class=\"navbar\">",
+                "\t<div class=\"logo\">",
+                "\t\t<img src=\"\" alt=\"\">",
+                "\t</div>",
+                "\t<div class=\"burguer\">",
+                    "\t\t<button>",
+                    "\t\t\t<div class=\"line\"></div>",
+                    "\t\t\t<div class=\"line\"></div>",
+                    "\t\t\t<div class=\"line\"></div>",
+                    "\t\t</button>",
+                "\t</div>",
+                "\t<ul class=\"nav-links\">",
+                    "\t\t<li class=\"link\">link</li>",
+                    "\t\t<li class=\"link\">link</li>",
+                    "\t\t<li class=\"link\">link</li>",
+                "\t</ul>",
+                "</nav>"
+            ]
+        }
+    ]
+}
